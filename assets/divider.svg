@@ -1,0 +1,15 @@
+<!-- 作者 shingja · https://github.com/shingja · CC BY-NC-SA 4.0 · 保留版权标识 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="16" viewBox="0 0 1200 16" role="img" aria-label="divider"><desc>⁠​‌‌‌​​‌‌​‌‌​‌​​​​‌‌​‌​​‌​‌‌​‌‌‌​​‌‌​​‌‌‌​‌‌​‌​‌​​‌‌​​​​‌​​‌​‌‌​‌​‌‌‌​​​​​‌‌‌​​‌​​‌‌​‌‌‌‌​‌‌​​‌‌​​‌‌​‌​​‌​‌‌​‌‌​​​‌‌​​‌​‌​​‌​‌‌‌‌​‌‌‌​​‌‌​‌‌​‌​​​​‌‌​‌​​‌​‌‌​‌‌‌​​‌‌​​‌‌‌​‌‌​‌​‌​​‌‌​​​​‌​​‌​‌‌‌‌​​‌‌​​​‌​​‌‌​​‌​​‌‌​​‌​‌​​‌‌​‌​​​‌‌​​​​‌​‌‌​​‌‌​​‌‌​​‌​​​​‌‌​​‌​​‌‌​​​​‌​​‌‌​‌‌​​​‌‌​‌‌​​​‌‌​‌​​⁠</desc>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff6b9d" stop-opacity="0"/>
+      <stop offset="0.35" stop-color="#ff6b9d" stop-opacity="0.8"/>
+      <stop offset="0.65" stop-color="#22d3ee" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="7" width="1200" height="2" fill="url(#line)"/>
+  <circle cx="600" cy="8" r="3" fill="#fde047"/>
+  <circle cx="586" cy="8" r="1.5" fill="#ff6b9d"/>
+  <circle cx="614" cy="8" r="1.5" fill="#22d3ee"/>
+</svg>

@@ -1,0 +1,134 @@
+<!-- 作者 shingja · https://github.com/shingja · CC BY-NC-SA 4.0 · 保留版权标识 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="shingja — Mechanical Engineering at USTB — cassette player banner"><desc>⁠​‌‌‌​​‌‌​‌‌​‌​​​​‌‌​‌​​‌​‌‌​‌‌‌​​‌‌​​‌‌‌​‌‌​‌​‌​​‌‌​​​​‌​​‌​‌‌​‌​‌‌‌​​​​​‌‌‌​​‌​​‌‌​‌‌‌‌​‌‌​​‌‌​​‌‌​‌​​‌​‌‌​‌‌​​​‌‌​​‌​‌​​‌​‌‌‌‌​‌‌‌​​‌‌​‌‌​‌​​​​‌‌​‌​​‌​‌‌​‌‌‌​​‌‌​​‌‌‌​‌‌​‌​‌​​‌‌​​​​‌​​‌​‌‌‌‌​​‌‌​​‌​​‌‌​​​​‌​​‌‌‌​​​​‌‌​​​‌​​‌‌​​‌​​​‌‌​​​‌‌​​‌‌​​‌‌​‌‌​​​‌​​​‌‌​‌​‌​​‌‌‌​​​​​‌‌​​​​​‌‌​​‌‌​⁠</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d0c14"/>
+      <stop offset="0.55" stop-color="#171222"/>
+      <stop offset="1" stop-color="#241528"/>
+    </linearGradient>
+    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff6b9d"/>
+      <stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#67e8f9"/>
+    </linearGradient>
+    <linearGradient id="beamPink" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff6b9d" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#ff6b9d" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="beamCyan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="beamYellow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fde047" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#fde047" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#ff6b9d" fill-opacity="0.10"/>
+    </pattern>
+    <pattern id="grille" width="10" height="10" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#67e8f9" fill-opacity="0.55"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="420" fill="url(#bg)"/>
+  <rect width="1200" height="420" fill="url(#dots)"/>
+
+  <polygon points="700,0 950,0 720,420 540,420" fill="url(#beamPink)"/>
+  <polygon points="980,0 1110,0 900,420 800,420" fill="url(#beamCyan)"/>
+  <polygon points="1120,0 1200,0 1200,420 1020,420" fill="url(#beamYellow)"/>
+
+  <!-- hanging charms: star, pick, heart -->
+  <g stroke="#ff8fb1" stroke-width="1.2" stroke-opacity="0.55">
+    <line x1="758" y1="0" x2="758" y2="58"/>
+    <line x1="818" y1="0" x2="818" y2="40"/>
+    <line x1="1162" y1="0" x2="1162" y2="30"/>
+  </g>
+  <g transform="translate(758 74)">
+    <path d="M0 -18 l5 12 13 2 -10 9 3 13 -11 -7 -11 7 3 -13 -10 -9 13 -2 z" fill="#fde047" stroke="#a16207" stroke-width="1.5"/>
+  </g>
+  <g transform="translate(818 54) rotate(-12)">
+    <path d="M0 -18 C14 -18 24 -6 24 8 C24 22 12 34 0 34 C-12 34 -24 22 -24 8 C-24 -6 -14 -18 0 -18 Z" fill="#ff6b9d" stroke="#7a1f45" stroke-width="2"/>
+    <text x="0" y="12" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="18" font-weight="800" fill="#fff7ed">S</text>
+  </g>
+  <g transform="translate(1162 44)">
+    <path d="M0 12 C-14 2 -22 -6 -22 -16 C-22 -24 -16 -30 -8 -30 C-3 -30 0 -26 0 -22 C0 -26 3 -30 8 -30 C16 -30 22 -24 22 -16 C22 -6 14 2 0 12 Z" fill="#ff6b9d" stroke="#7a1f45" stroke-width="1.5"/>
+  </g>
+
+  <!-- headphones -->
+  <path d="M800 250 C800 150 1040 150 1040 250" fill="none" stroke="#ff8fb1" stroke-width="11" stroke-linecap="round"/>
+  <rect x="780" y="226" width="40" height="68" rx="16" fill="#2a1b2e" stroke="#22d3ee" stroke-width="3"/>
+  <rect x="1020" y="226" width="40" height="68" rx="16" fill="#2a1b2e" stroke="#22d3ee" stroke-width="3"/>
+  <rect x="788" y="238" width="24" height="44" rx="10" fill="#161020" stroke="#ff6b9d" stroke-width="1.5"/>
+  <rect x="1028" y="238" width="24" height="44" rx="10" fill="#161020" stroke="#ff6b9d" stroke-width="1.5"/>
+
+  <!-- cassette player -->
+  <g transform="translate(930 315)">
+    <path d="M-80 -98 C-80 -128 80 -128 80 -98" fill="none" stroke="#fff7ed" stroke-width="7" opacity="0.85"/>
+    <rect x="-150" y="-90" width="300" height="180" rx="20" fill="#2a1b2e" stroke="#22d3ee" stroke-width="4"/>
+    <circle cx="-92" cy="0" r="54" fill="#161020" stroke="#ff6b9d" stroke-width="3"/>
+    <circle cx="-92" cy="0" r="40" fill="url(#grille)"/>
+    <circle cx="-92" cy="0" r="12" fill="#1a1420" stroke="#fde047" stroke-width="2"/>
+    <rect x="-8" y="-62" width="144" height="74" rx="10" fill="#161020" stroke="#fde047" stroke-width="2"/>
+    <rect x="6" y="-50" width="116" height="40" rx="6" fill="#12121a" stroke="#ff6b9d" stroke-width="1.5"/>
+    <circle cx="38" cy="-30" r="9" fill="none" stroke="#67e8f9" stroke-width="2"/>
+    <circle cx="88" cy="-30" r="9" fill="none" stroke="#67e8f9" stroke-width="2"/>
+    <circle cx="38" cy="-30" r="3" fill="#fde047"/>
+    <circle cx="88" cy="-30" r="3" fill="#fde047"/>
+    <g fill="#fde047">
+      <rect x="-8" y="22" width="18" height="10" rx="2"/>
+      <rect x="16" y="22" width="18" height="10" rx="2"/>
+      <rect x="40" y="22" width="18" height="10" rx="2"/>
+      <rect x="64" y="22" width="18" height="10" rx="2"/>
+    </g>
+    <g fill="#ff6b9d">
+      <circle cx="118" cy="26" r="9"/>
+      <circle cx="118" cy="-2" r="9"/>
+    </g>
+    <circle cx="118" cy="54" r="6" fill="#67e8f9"/>
+    <text x="0" y="70" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="9" fill="#8f7aa3" letter-spacing="2">SIDE A · SHINGJA</text>
+  </g>
+
+  <!-- floating cassette -->
+  <g transform="translate(1102 138) rotate(10)">
+    <rect x="-34" y="-22" width="68" height="44" rx="7" fill="#1a1420" stroke="#67e8f9" stroke-width="2"/>
+    <rect x="-24" y="-10" width="48" height="20" rx="4" fill="#12121a" stroke="#ff6b9d" stroke-width="1.2"/>
+    <circle cx="-12" cy="0" r="3" fill="#fde047"/>
+    <circle cx="12" cy="0" r="3" fill="#fde047"/>
+    <text x="0" y="17" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="7" fill="#8f7aa3" letter-spacing="1">MIXTAPE</text>
+  </g>
+
+  <!-- music notes and sparkles -->
+  <g fill="#fde047">
+    <circle cx="700" cy="190" r="5"/><rect x="704" y="150" width="3" height="40"/>
+    <circle cx="1080" cy="250" r="4"/><rect x="1083" y="216" width="2" height="34"/>
+  </g>
+  <g>
+    <path d="M690 300 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4 z" fill="#22d3ee"/>
+    <path d="M1150 300 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3 z" fill="#ff9ec0"/>
+    <path d="M860 80 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3 z" fill="#fde047"/>
+  </g>
+
+  <!-- speech bubble -->
+  <g transform="translate(640 342)">
+    <path d="M0 0 h128 a12 12 0 0 1 12 12 v30 a12 12 0 0 1 -12 12 h-82 l-18 18 v-18 h-28 a12 12 0 0 1 -12 -12 v-30 a12 12 0 0 1 12 -12 z"
+          fill="#fff7ed" stroke="#ff6b9d" stroke-width="2.5"/>
+    <text x="18" y="37" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="17" font-weight="700" fill="#9d174d">社恐也要上台</text>
+  </g>
+
+  <!-- text -->
+  <text x="78" y="152" font-family="Segoe UI, Microsoft YaHei, Arial, sans-serif" font-size="80" font-weight="800" fill="#ff6b9d" fill-opacity="0.55" letter-spacing="1">shingja</text>
+  <text x="72" y="146" font-family="Segoe UI, Microsoft YaHei, Arial, sans-serif" font-size="80" font-weight="800" fill="#fff7ed" letter-spacing="1">shingja</text>
+  <text x="76" y="198" font-family="Segoe UI, Microsoft YaHei, Arial, sans-serif" font-size="20" fill="#d8c9e8" letter-spacing="0.5">Mechanical Engineering · USTB</text>
+
+  <text x="76" y="244" font-family="Segoe UI, Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#b9a6c9" letter-spacing="4">SHARE · BUILD · WRITE</text>
+  <rect x="76" y="262" width="158" height="4" rx="2" fill="#22d3ee"/>
+
+  <text x="76" y="304" font-family="Segoe UI, Microsoft YaHei, Arial, sans-serif" font-size="12" fill="#8f7aa3" letter-spacing="1.5">INDEPENDENT BUILDER · BOCCHI THE ROCK! fan</text>
+  <text x="76" y="330" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="12" fill="#7c6f91">不必要做的不做，必要做的尽快做</text>
+
+  <text x="76" y="392" font-family="Segoe UI, Microsoft YaHei, Arial, sans-serif" font-size="10" fill="#5f5570" letter-spacing="1">© 2026 shingja · github.com/shingja · CC BY-NC-SA 4.0</text>
+</svg>
