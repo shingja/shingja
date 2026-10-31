@@ -92,7 +92,7 @@
 
 - **[shingja 的工科生手册](https://github.com/shingja/ustb-engineering-handbook-shingja)** — 面向北科工科生的竞赛与项目手册；在线站点、PDF、模板与清单。正文 CC BY-NC-SA 4.0，代码 MIT。
 - **[shingja's Math Modeling Workbench](https://github.com/shingja/shingja-math-modeling-workbench)** — 面向数学建模竞赛的 Linger / Tide / Gloom / Yearn 四段 Agent 工作流；12 类 164 张范式卡、MATLAB + Python、6 道质量门禁。北科大同学和任何想学建模的人都能用。
-- **[北科大校园网 IPv6 下载 Steam 加速](https://github.com/shingja/shingja-steam-ipv6-accelerator)** — 面向北科大校园网 / CERNET2 的学习工具；本机回环转发让 Steam 下载走 IPv6，默认单日 100GB 本机限流，公开 v1.0.0。
+- **[北科大校园网 IPv6 下载 Steam 加速](https://github.com/shingja/shingja-steam-ipv6-accelerator)** — 面向北科大校园网 / CERNET2 的学习工具；本机回环转发让 Steam 下载走 IPv6，公开 v1.0.0。
 
 ## 碰过的领域
 
