@@ -42,7 +42,7 @@
 
 > 一起嗨起来！龙舌兰倒满！
 
-> *如果这些内容对你有帮助，欢迎给 [Math Modeling Workbench](https://github.com/shingja/shingja-math-modeling-workbench) 或 [工科生手册](https://github.com/shingja/ustb-engineering-handbook-shingja) 点个 Star。
+> *如果这些内容对你有帮助，欢迎给 [Math Modeling Workbench](https://github.com/shingja/shingja-math-modeling-workbench)、[工科生手册](https://github.com/shingja/ustb-engineering-handbook-shingja) 或 [北科大校园网 IPv6 下载加速](https://github.com/shingja/ustb-steam-ipv6-accelerator-public) 点个 Star。
 
 *不必要做的不做，必要做的尽快做。**
 
@@ -86,12 +86,13 @@
 | **工程笔记** | 工具链、文档、代码、仿真、实验方法 |
 | **模板与清单** | 项目启动、周报、复盘、答辩、提交检查 |
 | **开源手册** | [shingja 的工科生手册](https://github.com/shingja/ustb-engineering-handbook-shingja) |
-| **开源工具** | [shingja's Math Modeling Workbench](https://github.com/shingja/shingja-math-modeling-workbench) |
+| **开源工具** | [shingja's Math Modeling Workbench](https://github.com/shingja/shingja-math-modeling-workbench) · [北科大校园网 IPv6 下载加速](https://github.com/shingja/ustb-steam-ipv6-accelerator-public) |
 
 ## 公开项目
 
 - **[shingja 的工科生手册](https://github.com/shingja/ustb-engineering-handbook-shingja)** — 面向北科工科生的竞赛与项目手册；在线站点、PDF、模板与清单。正文 CC BY-NC-SA 4.0，代码 MIT。
 - **[shingja's Math Modeling Workbench](https://github.com/shingja/shingja-math-modeling-workbench)** — 面向数学建模竞赛的 Linger / Tide / Gloom / Yearn 四段 Agent 工作流；12 类 164 张范式卡、MATLAB + Python、6 道质量门禁。北科大同学和任何想学建模的人都能用。
+- **[北科大校园网 IPv6 下载 Steam 加速](https://github.com/shingja/ustb-steam-ipv6-accelerator-public)** — 面向北科大校园网 / CERNET2 的学习工具；本机回环转发让 Steam 下载走 IPv6，默认单日 100GB 本机限流，公开 v1.0.0。
 
 ## 碰过的领域
 
